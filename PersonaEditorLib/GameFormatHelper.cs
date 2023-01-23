@@ -19,6 +19,7 @@ namespace PersonaEditorLib
             { ".p01",  FormatEnum.BIN },
             { ".arc",  FormatEnum.BIN },
             { ".dds2", FormatEnum.BIN },
+            { ".tpc", FormatEnum.BIN },
 
             { ".bf",  FormatEnum.BF  },
             { ".pm1", FormatEnum.PM1 },
